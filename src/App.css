@@ -1,4 +1,4 @@
-App {
+.App {
   text-align: center;
 }
 
@@ -26,6 +26,7 @@ App {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
 .card {
   display: inline-block;
   text-align: center;
@@ -35,4 +36,3 @@ App {
   margin: 1em;
   user-select: none;
  }
- 
